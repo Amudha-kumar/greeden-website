@@ -2,8 +2,7 @@
 🌿 Greeden — Nature-Inspired Website
 Welcome to Greeden — a fresh, clean, and fully responsive website made with Tailwind CSS. Whether you're building a plant shop, gardening blog, or eco-friendly brand, Greeden gives you a beautiful starting point.
 
-🖼️ Preview
-(Add a screenshot here)
+
 
 ✨ Features
 ✅ Clean Design — Nature-themed and minimal
@@ -15,7 +14,7 @@ Welcome to Greeden — a fresh, clean, and fully responsive website made with Ta
 ⚡ Fast & Lightweight — No heavy frameworks
 
 🚀 Live Demo
-🔗 
+🔗 https://amudha-kumar.github.io/greeden-website/
 
 🛠 Tech Stack
 HTML5
@@ -37,7 +36,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/greeden.git
+git clone https://github.com/Amudha-kumar/greeden.git
 Open the folder
 
 bash
@@ -63,8 +62,7 @@ Vercel
 GitHub Pages
 
 🙌 Credits
-Designed and developed with 💚 by [Your Name]
-Icons, fonts, and assets credit: [list here if needed]
+Designed and developed with 💚 by [Amudha-kumar]
 
-📄 License
-This project is open source and free to use under the MIT License.
+
+
